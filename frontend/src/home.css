@@ -252,6 +252,7 @@ button:focus-visible {
 }
 
 .activity-item {
+  color: #000000;
   display: flex;
   align-items: center;
   gap: 1rem;
